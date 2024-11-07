@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **RESTapi and Backend flutter integration**
 
-- 💬 Ask me about **Flutter , Flash , ML**
+- 💬 Ask me about **Flutter , Flask , ML**
 
 - 📫 How to reach me **aakashkamal47@gmail.com**
 
