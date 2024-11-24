@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakashhhhhhhhh" alt="aakashhhhhhhhh" /></a> </p>
 
-- 🔭 I’m currently working on **Meals App and Text Summarizer app**
+- 🔭 I’m currently working on **Shopping List App and Text Summarizer app**
 
 - 🌱 I’m currently learning **Flutter and Dart**
 
 - 👯 I’m looking to collaborate on **Text Summarizer App**
 
-- 🤝 I’m looking for help with **RESTapi and Backend flutter integration**
+- 🤝 I’m looking for help with **RESTAPI's and Firebase/Flask Backend flutter integration**
 
 - 💬 Ask me about **Flutter , Flask , ML**
 
