@@ -1,30 +1,91 @@
-<h1 align="center">Hi 👋, I'm Aakash Kamal</h1>
-<h3 align="center">A passionate Android developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakashhhhhhhhh" alt="aakashhhhhhhhh" /></a> </p>
-
-- 🔭 I’m currently working on **Shopping List App and Text Summarizer app**
-
-- 🌱 I’m currently learning **Flutter and Dart**
-
-- 👯 I’m looking to collaborate on **Text Summarizer App**
-
-- 🤝 I’m looking for help with **RESTAPI's and Firebase/Flask Backend flutter integration**
-
-- 💬 Ask me about **Flutter , Flask , ML**
-
-- 📫 How to reach me **aakashkamal47@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[https://linkedin.com/in/aakash kamal](https://www.linkedin.com/in/aakash-kamal-448501304/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakash kamal" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/raw_crane_07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="raw_crane_07" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/a_a_k_a_s_h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="a_a_k_a_s_h" height="30" width="40" /></a>
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Aakash+Kamal;Flutter+Dev+%7C+ML+%7C+Backend+%7C+Code+Cooker;Welcome+to+my+GitHub+profile!" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<!-- Profile pic or banner (optional) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashhhhhhhhh&show_icons=true&locale=en&layout=compact" alt="aakashhhhhhhhh" /></p>
+<h1 align="center">Aakash Kamal</h1>
+<h3 align="center">Flutter Developer | ML Enthusiast | Backend Explorer</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashhhhhhhhh&" alt="aakashhhhhhhhh" /></p>
+---
+
+### 👨‍💻 About Me
+
+- 🎓 3rd Year B.Tech CSE Student  
+- 📱 Passionate about building scalable mobile solutions
+- 🔭 Currently working on: **Shopping List App** and **Text Summarizer App**
+- 🧠 Exploring: **Flutter Animations**, **Flask**, **Firebase**, **Node.js**
+- 🤝 Open to collaborations on **real-world Flutter + ML projects**
+- 💬 Ask me about: `Flutter`, `Flask`, `Machine Learning`, `App Deployment`
+- 📫 Email: **aakashkamal47@gmail.com**
+
+---
+
+### 🚀 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,flask,firebase,androidstudio,git,linux,c,cpp,nodejs,mysql,tensorflow,pytorch,pandas" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aakashhhhhhhhh&show_icons=true&theme=tokyonight" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aakashhhhhhhhh&theme=tokyonight&hide_border=true" width="450" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashhhhhhhhh&layout=compact&theme=tokyonight" width="450" />
+</p>
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Tech | Description |
+|--------|------|-------------|
+| 🛍️ **Shopping List App** | `Flutter`, `Firebase` | Track and manage shopping items with cloud sync |
+| 🧠 **Text Summarizer** | `Flask`, `ML`, `Flutter` | Convert long-form content into summarized text |
+| 🧏‍♂️ **SilentBridge** | `Flutter`, `Blender`, `ML`, `model_viewer_plus` | Real-time sign language translator with 3D model animation |
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aakash-kamal-448501304/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:aakashkamal47@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/raw_crane_07" target="_blank">
+    <img src="https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=codechef" />
+  </a>
+  <a href="https://leetcode.com/a_a_k_a_s_h" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/aakashkgxft/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-1F8A70?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🧠 Fun Fact
+
+> I believe in **building over tutorial-watching**. I learn best by breaking things and fixing them creatively.  
+> Currently diving deeper into **backend & system design** to make my apps more production-ready.
+
+---
+
+<!-- Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aakashhhhhhhhh&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+</p>
