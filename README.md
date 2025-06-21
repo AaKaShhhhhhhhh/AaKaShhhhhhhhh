@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 3rd Year B.Tech CSE Student  
+- 🎓 3rd Year B.Tech Artificial Intelligence & Data Science((AI&DS) Student  
 - 📱 Passionate about building scalable mobile solutions
 - 🔭 Currently working on: **Shopping List App** and **Text Summarizer App**
 - 🧠 Exploring: **Flutter Animations**, **Flask**, **Firebase**, **Node.js**
