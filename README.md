@@ -1,21 +1,17 @@
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Hi+I'm+Aakash+Kamal;Software+%26+Systems+Engineer;Flutter+Dev+%7C+Embedded+Linux+%7C+AI%2FML;Welcome+to+my+GitHub+profile!" />
-</p>
-
-<!-- Profile Banner GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Hi+I'm+Aakash+Kamal;Full-Stack+Product+Engineer;Flutter+%26+Next.js+%7C+Browser+Extensions;Shipping+products+end+to+end;Welcome+to+my+GitHub+profile!" />
 </p>
 
 <h1 align="center">Aakash Kamal</h1>
 <p align="center">
-  <strong>Software & Systems Engineer | Flutter Developer | Embedded Linux Explorer</strong>
+  <strong>Full-Stack Product Engineer | Flutter & Next.js Developer</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Cross--Platform%20%26%20Low--Level-success?style=flat-square" />
+  <a href="https://aakashx.dev"><img src="https://img.shields.io/badge/Website-aakashx.dev-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science%202027-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Co--founder-Sorted-success?style=flat-square" />
   <img src="https://img.shields.io/badge/Hackathon-SIH%20National%20Finalist-orange?style=flat-square" />
 </p>
 
@@ -23,40 +19,57 @@
 
 ### About Me
 
-* **Mobile & Full-Stack:** Specializing in scalable cross-platform architectures (Flutter, React Native) and robust backend/cloud ecosystems.
-* **Systems & Embedded:** Deep-diving into Embedded Linux architectures, low-level firmware integration, bare-metal environment data pipelines, and FreeRTOS.
-* **Current Focus:** Open source development, building production-grade mobile solutions, and custom OS root filesystems for edge inference.
-* **Core Expertise:** `Flutter`, `Embedded Linux`, `C/C++`, `Firebase`, `FreeRTOS`, `Flask`, and `System Design`.
+* **Product engineering:** I build and ship products end to end across the web, browser extensions and mobile. Co-founded [Sorted](#featured-products), a tab and workspace manager with 45+ users, live on the Chrome Web Store and Google Play.
+* **Paid AI product:** Launched [GetYourJobs](#featured-products), a live AI job-application assistant with paid subscriptions.
+* **Stack:** TypeScript, React, Next.js (App Router), Tailwind, WXT / Manifest V3 on the web; Flutter, Dart and Kotlin on mobile; Firebase, Supabase, Cloudflare Workers and Node.js on the backend.
+* **Also:** Flutter & Dart course instructor at Selfcode Academy, and open-source contributor (SSOC '26).
+* **Education:** B.Tech in Artificial Intelligence & Data Science, Vivekananda Institute of Professional Studies (expected 2027, CGPA 8.88/10).
 * **Contact:** **aakashkamal47@gmail.com**
 
 ---
 
-### Tech Stack & Tools
+### Featured Products
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,dart,go,js,flutter,react,flask,nodejs&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=linux,docker,firebase,mysql,git,androidstudio,blender&theme=dark" />
-</p>
-
-> **Systems Architecture:** Experienced with low-level ecosystems including **FreeRTOS, Buildroot, ESP-IDF, Device Trees**, and **ARM64 QEMU Simulation**.
+| Product | What it is | Highlights | Links |
+| :--- | :--- | :--- | :--- |
+| **Sorted** | Tab and workspace manager (web, browser extension, Android) | Next.js web app with drag-and-drop workspaces and real-time Firestore sync; cross-browser extension for Chrome, Edge, Firefox and Safari; Pro subscriptions via Dodo Payments; 83 test files for billing, sync and security | [Web showcase](https://github.com/AaKaShhhhhhhhh/sorted-showcase) · [Mobile showcase](https://github.com/AaKaShhhhhhhhh/sorted-mobile-showcase) |
+| **Sorted Scan** | Offline-first Android document scanner and PDF editor | Flutter UI with Kotlin platform channels, ML Kit document scanning and PDFBox; crop, rotate, reorder, filters, markup, merge, split and compress; end-to-end encrypted cloud uploads, QR browser unlock and view-limited share links | [Code showcase](https://github.com/AaKaShhhhhhhhh/sorted-scan-showcase) |
+| **GetYourJobs** | AI job-application assistant (live) | Tailored cover letters, cold emails, LinkedIn outreach, application tracking, interview prep and a 0–100 ATS resume score; Gemini 2.5 Flash and Groq (Llama 3.3 70B); Firebase Auth/Firestore; Razorpay subscriptions | Live product |
+| **Silent Bridge** | Speech-to-Indian Sign Language app | Flask/Python NLP pipeline that turns speech or text into ISL grammar, played by a custom 3D Blender avatar with 50+ sign animations; related Indian patent application published in 2026 | Case study · Patent publication |
 
 ---
 
-### Featured Projects
+### Experience
 
-#### Mobile, AI & Full-Stack Applications
+* **Co-founder & Product Engineer, Sorted** (2026 – present): Built the web app, cross-browser extension and Android app; wrote 202 of 236 commits; kept Firestore within free-tier limits with a Cloudflare Workers cache.
+* **Flutter & Dart Course Instructor, Selfcode Academy** (Jul 2026 – present): Designing sprint-based Flutter and Dart lessons and sample apps.
+* **Mobile Developer Intern, Shaithilyog** (Jun – Aug 2025): Flutter and React Native features for Android and iOS, integrating REST APIs with Provider and Riverpod; shipped through PR reviews and CI/CD.
+
+---
+
+### Open Source
+
+* **Social Summer of Code (SSOC '26):** Merged 4 pull requests fixing security, UI/UX and backend issues, validated with tests, CI and maintainer review.
+
+---
+
+### Embedded Systems & Low-Level Projects
+
 | Project | Tech Stack | Key Highlights |
 | :--- | :--- | :--- |
-| **GetYourJobs** | `Flutter`, `Firebase`, `Gemini API`, `Groq`, `Razorpay` | Full-stack AI platform featuring an ATS Resume Analyzer (0-100 scoring), AI Resume Builder, and secure subscription payments. |
-| **Silent Bridge** | `Flutter`, `Python`, `Blender`, `Flask`, `Firebase ML` | Speech-to-Indian Sign Language translator utilizing a custom 3D avatar with 50+ lifelike animations optimized to a <200ms response time. |
+| **Custom OS & Edge Inference** | `Buildroot`, `QEMU`, `ARM64`, `C++` | Custom OS root filesystem with an asynchronous multi-threaded C++ ingestion engine and an integrated MobileNet SSD model. |
+| **Fault-Tolerant IoT Stack** | `FreeRTOS`, `ESP-IDF`, `ESP32`, `Go` | FreeRTOS sensor polling with a network FSM that caches data to an SPI NOR flash circular buffer during link dropouts. |
+| **Dual-Partition OTA Bootloader** | `C`, `ESP-IDF`, `Docker`, `Partitioning` | Dual-slot firmware update layout with rollback that toggles the boot pointer between application slots. |
 
-#### Embedded Systems & Low-Level Architectures
-| Project | Tech Stack | Key Highlights |
-| :--- | :--- | :--- |
-| **Custom OS & Edge Inference** | `Buildroot`, `QEMU`, `ARM64`, `C++` | Built a custom OS root filesystem from scratch, programming an asynchronous multi-threaded C++ ingestion engine with an integrated MobileNet SSD neural network. |
-| **Fault-Tolerant IoT Stack** | `FreeRTOS`, `ESP-IDF`, `ESP32`, `Go` | Decoupled sensor polling using FreeRTOS, featuring a custom network FSM that handles link dropouts by caching data into an SPI NOR Flash circular buffer. |
-| **Dual-Partition OTA Bootloader** | `C`, `ESP-IDF`, `Docker`, `Partitioning` | Configured a custom flash layout with zero-brick rollback execution pointer toggling between dual application slots. |
+---
+
+### Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,nextjs,react,tailwindcss,flutter,dart,kotlin,firebase,supabase,nodejs,python,flask&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,linux,docker,git,github,vercel,androidstudio,blender&theme=dark" />
+</p>
 
 ---
 
@@ -82,6 +95,9 @@
 ### Connect With Me
 
 <p align="center">
+  <a href="https://aakashx.dev" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/aakash-kamal-448501304/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -103,4 +119,4 @@
 
 ### Operating Philosophy
 
-> I bridge the gap between abstract high-level user interfaces and raw hardware execution. Whether writing high-frame-rate cross-platform mobile apps or designing custom multi-threaded kernel layers, I believe in breaking down problems to their absolute fundamentals and building back up efficiently.
+> I build products end to end, from the first prototype to the store listing and the billing page, and I like the hard parts underneath: real-time sync, offline-first storage, and the hardware and firmware layer where the software meets the device.
